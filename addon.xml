@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.seirsanduk.rd" name="SEIRSANDUK RD" version="4.2.0" provider-name="zynobg [at] gmail.com">
+<addon id="plugin.video.seir-sanduk.com" name="SEIR-SANDUK COM" version="4.2.0" provider-name="az">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.xbmcswift2" version="1.1.1" />
@@ -9,15 +9,15 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB"></summary>
-    <description lang="en_GB">www.SEIRSANDUK.com</description>
+    <description lang="en_GB">www.SEIR-SANDUK.com</description>
     <disclaimer lang="en_GB"></disclaimer>
     <language>en</language> <!-- the language of the videos or other content the plugin provides, may be omitted in case the addon does not provide any content -->
     <platform>all</platform>
     <license>GPL-3.0</license>
     <forum></forum> <!-- may be omitted  -->
-    <website>http://www.SEIRSANDUK.com</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
+    <website>http://www.SEIR-SANDUK.com</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
     <email>zinobg@gmail.com</email> <!-- may be left omitted  -->
-    <source>http://github.com/rosendonchev/kodi/plugin.video.seirsanduk.rd</source>
+    <source>http://github.com/rosendonchev/kodi/plugin.video.seir-sanduk.com</source>
     <news>v4.1.1 (02/03/2020)
 			- Using another way of playing channels with xbmcswift2 plugin. 
 			- TV channels open with one click
